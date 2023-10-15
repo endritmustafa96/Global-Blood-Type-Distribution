@@ -26,4 +26,4 @@ The dataset is available on Kaggle: [Link to Dataset](https://www.kaggle.com/dat
 
 ---
 
-Check the Notebook directory for the details of the analysis
+Check the Notebook directory for the details of the analysis.
